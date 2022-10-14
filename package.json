@@ -12,7 +12,9 @@
     "deploy-storybook": "storybook-to-ghpages"
   },
   "dependencies": {
+    "@radix-ui/react-checkbox": "^1.0.0",
     "@radix-ui/react-popover": "1.0.1-rc.19",
+    "@storybook/addon-a11y": "^6.5.12",
     "@storybook/storybook-deployer": "^2.8.12",
     "clsx": "^1.2.1",
     "phosphor-react": "^1.4.1",
